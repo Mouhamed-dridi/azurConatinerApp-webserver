@@ -8,7 +8,7 @@ az acr create --resource-group <your-resource-group> --name <your-acr-name> --sk
 git clone https://github.com/Mouhamed-dridi/thebatman.git 
 
 
-# create docker file name MyDockerfile 
+# create docker file name MyDockerfile ....
 
 nano MyDockerfile
 

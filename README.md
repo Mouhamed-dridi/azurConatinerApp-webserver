@@ -1,13 +1,7 @@
 # How Create a Web app in azur using the Container App
 
 ## introduction
-This repository contains the source code and instructions for creating a web app in Azure using the Container App service. The web app is built using Docker, and the container image is stored in an Azure Container Registry (ACR). Follow the steps below to set up and deploy the web app.
-
-### Prerequisites
-Before you begin, make sure you have the following prerequisites:
-
-Azure account
-Azure CLI installed (Install Azure CLI)
+This repository contains the source code and instructions for creating a web app in Azure using the Container App service. The web app is built using Docker 🐳, and the container image is stored in an Azure Container Registry (ACR) 🏛️. Follow the steps below to set up and deploy the web app.
 ### Steps
 1. Create Azure Container Registry (ACR)
 
